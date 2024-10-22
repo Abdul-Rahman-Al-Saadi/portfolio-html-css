@@ -88,6 +88,14 @@ h2 {
     text-decoration: underline;
 }
 
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    width: 100%; 
+}
+
 
 /* Taken from ChatGPT to make a check-list look, ofcourse I understood each one of the properties*/
 .checklist {
